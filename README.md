@@ -1,5 +1,5 @@
 <h1>📚BIG DATA OLIST</h1><br><br>
-    O projeto consiste em tarefas básicas de engenharia de dados, realizar conexão com um banco de dados externo, extrair as tabelas necessárias, tratá-las e analisar utilizando de cálculos básicos estatísticos como média, junção de tabelas e ou colunas obtendo respota à insights obtidos ao longo da leitura das tabelas e orientações para resultados.<br><br>
+    O projeto consiste em tarefas básicas de engenharia de dados, realizar conexão com um banco de dados externo, extrair as tabelas necessárias, tratá-las e analisar utilizando de cálculo estatístico como média, junção de tabelas(join) e ou colunas obtendo resposta à insights obtidos ao longo da leitura das tabelas e orientações para resultados.<br><br>
 
 <h2>🖊 Desenvolvido por:</h2><br>
 
